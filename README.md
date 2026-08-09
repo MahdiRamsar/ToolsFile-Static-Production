@@ -1,0 +1,1 @@
+ToolsFile static bilingual project. No backend required. Advanced PDF/OCR/HEIC processors are intentionally not advertised as complete without their audited browser libraries.
