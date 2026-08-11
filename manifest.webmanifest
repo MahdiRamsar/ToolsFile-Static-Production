@@ -1,0 +1,15 @@
+{
+  "name": "ToolsFile",
+  "short_name": "ToolsFile",
+  "start_url": "/fa/",
+  "display": "standalone",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/assets/icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
