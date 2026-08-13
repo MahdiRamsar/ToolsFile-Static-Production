@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/private/
+Sitemap: https://toolsfile.ir/sitemap.xml
