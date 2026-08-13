@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://toolsfile.ir/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://toolsfile.ir/"/>
+  </url>
+  
+  <!-- Persian Tool Pages -->
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/ocr/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/ocr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/ocr/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/hand2text/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/hand2text/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/hand2text/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/img2pdf/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/img2pdf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/img2pdf/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/imgzip/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/imgzip/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/imgzip/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/imgfmt/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/imgfmt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/imgfmt/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/heic/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/heic/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/heic/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/removebg/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/removebg/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/removebg/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/pass/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/pass/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/pass/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/qr/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/qr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/qr/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/date/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/date/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/date/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/tts/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/tts/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/tts/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/t2w/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/t2w/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/t2w/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/pdf2text/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/pdf2text/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/pdf2text/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/pdf2image/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/pdf2image/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/pdf2image/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/finance/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/finance/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/finance/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/realestate/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/realestate/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/realestate/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/eidi/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/eidi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/eidi/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/percent/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/percent/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/percent/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/average/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/average/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/average/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/fa/tools/bmi/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/bmi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/bmi/"/>
+  </url>
+
+  <!-- English Tool Pages -->
+  <url>
+    <loc>https://toolsfile.ir/en/tools/ocr/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/ocr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/ocr/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/hand2text/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/hand2text/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/hand2text/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/img2pdf/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/img2pdf/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/img2pdf/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/imgzip/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/imgzip/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/imgzip/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/imgfmt/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/imgfmt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/imgfmt/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/heic/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/heic/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/heic/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/removebg/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/removebg/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/removebg/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/pass/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/pass/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/pass/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/qr/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/qr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/qr/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/date/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/date/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/date/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/tts/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/tts/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/tts/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/t2w/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/t2w/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/t2w/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/pdf2text/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/pdf2text/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/pdf2text/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/pdf2image/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/pdf2image/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/pdf2image/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/finance/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/finance/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/finance/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/realestate/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/realestate/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/realestate/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/eidi/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/eidi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/eidi/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/percent/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/percent/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/percent/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/average/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/average/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/average/"/>
+  </url>
+  <url>
+    <loc>https://toolsfile.ir/en/tools/bmi/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://toolsfile.ir/fa/tools/bmi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://toolsfile.ir/en/tools/bmi/"/>
+  </url>
+
+</urlset>
